@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>romrobotics.png</file>
+        <file>osrfm.png</file>
+        <file>face.png</file>
+        <file>eye-outer.png</file>
+        <file>eye.png</file>
+        <file>mainbackup.qml</file>
+    </qresource>
+</RCC>
