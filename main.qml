@@ -3,8 +3,8 @@ import QtQuick.Window 2.12
 
 Window {
     id: window
-    width: 1024
-    height: 600
+    width: 480
+    height: 320
     visible: true
     title: qsTr("ROM ROBOTICS")
 
